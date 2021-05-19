@@ -18,11 +18,16 @@ ________________________________
 |-------- <-- 100% --> --------|
 ```
 
+![unstructured-space](https://github.com/takinosaji/handwriting-notation/blob/1cf2f9f642d28dc8292160acb75398d69ca31782/unstructured-space.png)
+
 ### Structured space
 Structured space consists of **_token area_** and **_working area_**.
 
 
 Token area location depends on the direction of your writing. If you are writing from left to right then your token area will be to the left, otherwise to the right respectfully. You pick token area widths by yourself depending on the variety of tokens in your vocabulary which most likely will be used together in the same line. The wider the area - more metainformation you can provide about your content but the price is loosing space for your data. Token area contains tokens which enrich lines of data with specific meaning. Being located at the beginning of a page they are easily noticeable and help to attract your attention to the reading entry points.
+
+
+![structured-space](https://github.com/takinosaji/handwriting-notation/blob/1cf2f9f642d28dc8292160acb75398d69ca31782/structured-space.png)
 
 ## Headings
 
